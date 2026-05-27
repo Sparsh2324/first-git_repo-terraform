@@ -1,8 +1,9 @@
 provider.tf
-graph.pdf
+*.pdf
 *.tfstate
+*.tfstate.*
 .terraform
 .terraform.lock.hcl
 id_rsa
-*.*.backup
-.gitignore
+*.pub
+
