@@ -1,0 +1,8 @@
+provider.tf
+graph.pdf
+*.tfstate
+.terraform
+.terraform.lock.hcl
+id_rsa
+*.*.backup
+.gitignore
